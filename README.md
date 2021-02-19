@@ -16,5 +16,5 @@ Keep in mind that these are projects for students that should be completed over 
 
 See this page for more info: https://google.github.io/gsocguides/mentor/defining-a-project-ideas-list
 
-**Please comment on ideas that you would be willing to mentor!**
+**Please comment on ideas that you would be willing to help mentor!** Students will need dedicated and attentive mentorship to complete their projects
 
