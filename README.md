@@ -9,6 +9,7 @@ Good ideas posts should contain:
 * A detailed description of the problem, including possible motives and use cases
 * Expected outcomes of the students' work on the project
 * Skills required
+* links to relevant information and resources
 * If possible, an indication of project difficulty
 
 Keep in mind that these are projects for students that should be completed over a 10 week period. Projects should be reasonable and focused on learning.
